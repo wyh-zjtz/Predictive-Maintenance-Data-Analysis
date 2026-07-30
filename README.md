@@ -169,7 +169,7 @@
 
 该图展示了故障记录在高扭矩、高刀具磨损区域出现得更频繁，但两类样本仍有重叠。
 
-![Torque vs Tool Wear](analysis_output/torque_vs_tool_wear_by_failure.png)
+![image](https://github.com/wyh-zjtz/Predictive-Maintenance-Data-Analysis/blob/main/img/torque_vs_tool_wear_by_failure.png)
 
 ### 不同统计风险分组的观察故障率
 
