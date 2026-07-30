@@ -185,7 +185,7 @@
 
 ### 过程温度与记录编号
 
-![Process Temperature by Record Index](analysis_output/process_temperature_by_record_index.png)
+![image](https://github.com/wyh-zjtz/Predictive-Maintenance-Data-Analysis/blob/main/img/process_temperature_by_record_index.png)
 
 > `UDI` 为记录编号而非时间戳，因此该图仅展示样本顺序下的分布位置，不代表真实设备时间趋势。
 
