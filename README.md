@@ -1,5 +1,3 @@
-<img width="1440" height="1080" alt="torque_vs_tool_wear_by_failure" src="https://github.com/user-attachments/assets/41a75938-0e35-4c58-b211-b1cd6984a49b" /># Predictive Maintenance Data Analysis
-
 基于 Python 的工业设备传感器数据异常筛查与维护建议分析项目。项目使用公开预测性维护模拟数据，对设备运行记录进行数据质量检查、统计异常识别、故障关联分析、风险复核排序和结果可视化。
 
 > 说明：本项目中的“统计异常”用于风险初筛，不等同于已确认的机器故障、故障诊断或故障根因。
