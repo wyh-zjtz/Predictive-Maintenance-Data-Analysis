@@ -181,7 +181,7 @@
 
 ### 转速与扭矩分布
 
-![Rotational Speed and Torque Distribution](analysis_output/rotational_speed_and_torque_distribution.png)
+![image](https://github.com/wyh-zjtz/Predictive-Maintenance-Data-Analysis/blob/main/img/rotational_speed_and_torque_distribution.png)
 
 ### 过程温度与记录编号
 
