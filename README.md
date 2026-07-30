@@ -177,7 +177,7 @@
 
 > 图中的数值为观察故障率，不是模型预测概率或模型准确率。
 
-![Observed Failure Rate by Risk Level](analysis_output/observed_failure_rate_by_risk_level.png)
+![image](https://github.com/wyh-zjtz/Predictive-Maintenance-Data-Analysis/blob/main/img/observed_failure_rate_by_risk_level.png)
 
 ### 转速与扭矩分布
 
